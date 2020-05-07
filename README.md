@@ -1,4 +1,4 @@
-# Google Maps Route UI
+# Credits UI
 
 Credits screen UI for people who worked on the App. Icons redirect to their personal profiles.
 
